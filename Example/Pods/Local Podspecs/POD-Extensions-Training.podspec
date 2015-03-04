@@ -10,9 +10,9 @@
 Pod::Spec.new do |s|
   s.name             = "POD-Extensions-Training"
   s.version          = "0.1.0"
-  s.summary          = "A short description of POD-Extensions-Training."
+  s.summary          = “A sample description for testing.“
   s.description      = <<-DESC
-                       An optional longer description of POD-Extensions-Training
+                       A sample description for testing.
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
