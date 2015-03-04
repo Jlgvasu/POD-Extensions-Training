@@ -1,0 +1,14 @@
+PODS:
+  - POD-Extensions-Training (0.1.0)
+
+DEPENDENCIES:
+  - POD-Extensions-Training (from `../`)
+
+EXTERNAL SOURCES:
+  POD-Extensions-Training:
+    :path: ../
+
+SPEC CHECKSUMS:
+  POD-Extensions-Training: 78ed2c18190dec1e288c7d8f63d273ff48e2deeb
+
+COCOAPODS: 0.35.0

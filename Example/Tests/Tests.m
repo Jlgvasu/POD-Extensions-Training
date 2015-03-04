@@ -6,4 +6,3 @@
 //  Copyright (c) 2014 Srinivas Jayanthi. All rights reserved.
 //
 
-${TEST_EXAMPLE}

@@ -10,19 +10,19 @@
 Pod::Spec.new do |s|
   s.name             = "POD-Extensions-Training"
   s.version          = "0.1.0"
-  s.summary          = "This is used to learn how to create a POD."
+  s.summary          = "A short description of POD-Extensions-Training."
   s.description      = <<-DESC
-                       This is used to learn how to create a POD.
+                       An optional longer description of POD-Extensions-Training
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/Jlgvasu/POD-Extensions-Training"
+  s.homepage         = "https://github.com/<GITHUB_USERNAME>/POD-Extensions-Training"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Srinivas Jayanthi" => "jlgvasu@gmail.com" }
-  s.source           = { :git => "https://github.com/jlgvasu/POD-Extensions-Training.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/jlgvasu'
+  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/POD-Extensions-Training.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
