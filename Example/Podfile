@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'POD-Extensions-Training', :exclusive => true do
+  pod "POD-Extensions-Training", :path => "../"
+
+  
+end
